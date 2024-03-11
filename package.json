@@ -1,7 +1,7 @@
 {
   "name": "test-prieds-backend-v2",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "start": "node ./bin/www",
     "start:nodemon": "nodemon ./bin/www"
